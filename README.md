@@ -8,15 +8,15 @@ Naan Mudhalvan project done in salesforce.
 ## Team Members
 
 - **Team Members**:
-  - GOKULAKANNAN  S.    (421622104037)
-  - KARTHIKEYAN R.          (421622104056)
-  - GOPINATH S.               	(421622104039)
-  - DHINESH S.                 	(421622104027)
-  - ARJUN R                          (421622104013)
+  - GOKULAKANNAN  S    (421622104037)
+  - KARTHIKEYAN R      (421622104056)
+  - GOPINATH S         (421622104039)
+  - DHINESH S          (421622104027)
+  - ARJUN R            (421622104013)
 
  
 ## Demo Link
 
 You can view the project demo using the following link:
 
-[Trip Advisor Demo](https://drive.google.com/file/d/19QeupXVFSGj-fuw9hrrxnjU5dHIRddHb/view?usp=drivesdk)
+[video Demo](https://drive.google.com/file/d/19QeupXVFSGj-fuw9hrrxnjU5dHIRddHb/view?usp=drivesdk)
