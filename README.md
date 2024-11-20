@@ -9,7 +9,7 @@ Naan Mudhalvan project done in salesforce.
 
 - **Team Members**:
   - GOKULAKANNAN  S    (421622104037)
-  - KARTHIKEYAN R      (421622104056)
+  - KARTHIKEYAN V      (421622104056)
   - GOPINATH S         (421622104039)
   - DHINESH S          (421622104027)
   - ARJUN R            (421622104013)
